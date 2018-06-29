@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TarProject3</string>
+    <string name="download">Download</string>
+    <string name="drPhoto">DrawablePhoto</string>
+    <string name="PhotoDrID">drawable</string>
+    <string name="photo">Photo</string>
+</resources>
